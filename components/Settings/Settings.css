@@ -1,0 +1,32 @@
+.settings {
+  align-items: flex-start;
+  background-color: var(--carnation-pink);
+  display: flex;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group-20 {
+  align-items: center;
+  background-color: var(--wild-strawberry);
+  display: flex;
+  height: 114px;
+  min-width: 1440px;
+  padding: 52.2px 61.7px;
+}
+
+.icon-9 {
+  height: 1px;
+  margin-top: 0;
+  width: 1px;
+}
+
+.img9872-3-18 {
+  align-self: flex-end;
+  height: 1px;
+  margin-left: 657px;
+  object-fit: cover;
+  width: 1px;
+}
+

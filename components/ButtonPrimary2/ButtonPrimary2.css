@@ -1,0 +1,30 @@
+.button-primary-3 {
+  align-items: flex-end;
+  align-self: flex-start;
+  background-color: var(--mine-shaft);
+  border-radius: 100px;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-left: 30px;
+  margin-top: 35px;
+  min-width: 505px;
+  padding: 10px 204.5px;
+}
+
+.log-out {
+  letter-spacing: 0;
+  min-height: 29px;
+  min-width: 94px;
+  text-align: center;
+}
+
+.button-primary-3.button-primary-4 {
+  align-self: unset;
+  left: 87px;
+  margin-left: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 177px;
+}
+

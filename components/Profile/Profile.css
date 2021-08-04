@@ -1,0 +1,188 @@
+.profile {
+  align-items: flex-start;
+  background-color: var(--carnation-pink);
+  display: flex;
+  overflow: hidden;
+  width: 749px;
+}
+
+.overlay .profile {
+  background-color: #00000000;
+}
+
+.overlap-group1-19 {
+  height: 1024px;
+  margin-left: -63px;
+  position: relative;
+  width: 812px;
+}
+
+.tech-life-life-management-2 {
+  height: 379px;
+  left: 45px;
+  position: absolute;
+  top: 615px;
+  width: 450px;
+}
+
+.tech-life-communication-2 {
+  height: 255px;
+  left: 0;
+  position: absolute;
+  top: 286px;
+  width: 439px;
+}
+
+.frame-4-14 {
+  align-items: flex-start;
+  background-color: var(--carnation-pink);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  left: 63px;
+  padding: 0 33px;
+  position: absolute;
+  top: 0;
+  width: 749px;
+}
+
+.flex-row-12 {
+  align-items: center;
+  display: flex;
+  margin-left: 13px;
+  min-width: 462px;
+}
+
+.delete-1 {
+  height: 62px;
+  margin-bottom: 1.0px;
+  width: 79px;
+}
+
+.img9872-4 {
+  height: 169px;
+  margin-left: 114px;
+  object-fit: cover;
+  width: 269px;
+}
+
+.kim-carpenter-i-z5-q-unsplash-1 {
+  align-self: center;
+  height: 144px;
+  margin-right: 0.12px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 141px;
+}
+
+.overlap-group2-11 {
+  align-self: flex-end;
+  height: 640px;
+  margin-top: 35px;
+  position: relative;
+  width: 681px;
+}
+
+.group-14-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 681px;
+}
+
+.line-4-2 {
+  height: 1px;
+  margin-left: 7.0px;
+  width: 666px;
+}
+
+.anna-2uwecouk {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 2.0px;
+  margin-top: 22px;
+  min-height: 32px;
+  text-align: center;
+  width: 543px;
+}
+
+.phone {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 11.0px;
+  margin-top: 23px;
+  min-height: 33px;
+  text-align: center;
+  width: 324px;
+}
+
+.line-3-2 {
+  align-self: flex-start;
+  height: 1px;
+  margin-top: 528px;
+  width: 666px;
+}
+
+.copy {
+  height: 30px;
+  left: 550px;
+  position: absolute;
+  top: 431px;
+  width: 30px;
+}
+
+.copy-1 {
+  height: 41px;
+  left: 604px;
+  position: absolute;
+  top: 374px;
+  width: 42px;
+}
+
+.gear-1 {
+  height: 90px;
+  left: 398px;
+  position: absolute;
+  top: 645px;
+  width: 90px;
+}
+
+.overlap-group-30 {
+  height: 802px;
+  margin-left: 333px;
+  margin-top: 196px;
+  position: relative;
+  width: 383px;
+}
+
+.tech-life-virtual-reality-2 {
+  height: 366px;
+  left: 0;
+  position: absolute;
+  top: 436px;
+  width: 383px;
+}
+
+.tech-life-remote-life-2 {
+  height: 492px;
+  left: 50px;
+  position: absolute;
+  top: 0;
+  width: 308px;
+}
+
+#overlay-profile {
+  background-color: var(--carnation-pink);
+}
+

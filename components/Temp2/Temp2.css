@@ -1,0 +1,24 @@
+.temp-2 {
+  align-items: flex-start;
+  background-color: var(--carnation-pink);
+  display: flex;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group-4 {
+  align-items: flex-end;
+  background-color: var(--wild-strawberry);
+  display: flex;
+  height: 114px;
+  min-width: 1440px;
+  padding: 52.2px 719.2px;
+}
+
+.img9872-3-3 {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+

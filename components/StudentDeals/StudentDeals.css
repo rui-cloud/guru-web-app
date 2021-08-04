@@ -1,0 +1,164 @@
+.student-deals {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group-35 {
+  align-self: flex-start;
+  height: 138px;
+  margin-left: -25px;
+  position: relative;
+  width: 1465px;
+}
+
+.group-12-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 138px;
+  left: 0;
+  min-width: 1465px;
+  padding: 65.8px 382.8px;
+  position: absolute;
+  top: 0;
+}
+
+.xbox-menu-10 {
+  cursor: pointer;
+  height: 1px;
+  width: 1px;
+}
+
+.test-account-10 {
+  cursor: pointer;
+  height: 1px;
+  margin-left: 681px;
+  width: 1px;
+}
+
+.img9872-2-1 {
+  height: 1px;
+  left: 745px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 1px;
+}
+
+.overlap-group2-13 {
+  height: 317px;
+  margin-left: 18.0px;
+  margin-top: 96px;
+  position: relative;
+  width: 1326px;
+}
+
+.quiz-box {
+  height: 1px;
+  left: 661px;
+  position: absolute;
+  top: 132px;
+  width: 1px;
+}
+
+.text-44 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: justify;
+  top: 0;
+  width: 1326px;
+}
+
+.text-46 {
+  left: 655px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: justify;
+  top: 185px;
+}
+
+.overlap-group1-22 {
+  align-items: flex-start;
+  background-color: #ff757d;
+  border-radius: 50px;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 34px;
+  min-width: 1409px;
+  padding: 7px 48px;
+}
+
+.text-45 {
+  letter-spacing: 0;
+  min-height: 52px;
+  min-width: 1310px;
+  text-align: center;
+}
+
+.span-2 {
+  text-decoration: underline;
+}
+
+.flex-row-15 {
+  align-items: center;
+  display: flex;
+  margin-left: 25.37px;
+  margin-top: 34px;
+  min-width: 1324px;
+}
+
+.arrow-left-3 {
+  cursor: pointer;
+  height: 1px;
+  margin-top: 8.0px;
+  width: 1px;
+}
+
+.group-49-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 270px;
+  margin-left: 36px;
+  min-width: 1251px;
+  padding: 130.8px 135.2px;
+}
+
+.screenshot-2021-07-27-at-1158-1-1 {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.screenshot-2021-07-27-at-1 {
+  height: 1px;
+  margin-bottom: 0;
+  margin-left: 325px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.screenshot-2021-07-27-at-1158-3-1 {
+  height: 1px;
+  margin-bottom: 0;
+  margin-left: 326px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.arrow-right-8 {
+  height: 1px;
+  margin-left: 36px;
+  margin-top: 20.0px;
+  width: 1px;
+}
+

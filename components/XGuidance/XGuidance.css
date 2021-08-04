@@ -1,0 +1,324 @@
+.x-guidance {
+  align-items: flex-start;
+  background-color: var(--carnation-pink);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlay .x-guidance {
+  background-color: #00000000;
+}
+
+.group-12-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 161px;
+  margin-left: -25px;
+  margin-top: -16px;
+  min-width: 1465px;
+}
+
+.overlap-group1-13 {
+  height: 169px;
+  margin-bottom: -8px;
+  position: relative;
+  width: 1465px;
+}
+
+.rectangle-3-1 {
+  background-color: var(--wild-strawberry);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 138px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 1465px;
+}
+
+.xbox-menu-7 {
+  cursor: pointer;
+  height: 72px;
+  left: 342px;
+  position: absolute;
+  top: 41px;
+  width: 83px;
+}
+
+.img9872-1 {
+  height: 169px;
+  left: 598px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 269px;
+}
+
+.test-account-7 {
+  cursor: pointer;
+  height: 72px;
+  left: 1023px;
+  position: absolute;
+  top: 41px;
+  width: 83px;
+}
+
+.overlap-group-23 {
+  height: 834px;
+  margin-left: -88px;
+  margin-top: 19px;
+  position: relative;
+  width: 1528px;
+}
+
+.tech-life-life-management {
+  height: 379px;
+  left: 45px;
+  position: absolute;
+  top: 451px;
+  width: 450px;
+}
+
+.tech-life-communication {
+  height: 255px;
+  left: 0;
+  position: absolute;
+  top: 122px;
+  width: 439px;
+}
+
+.tech-life-virtual-reality {
+  height: 366px;
+  left: 1145px;
+  position: absolute;
+  top: 468px;
+  width: 383px;
+}
+
+.rectangle-14 {
+  background-color: var(--carnation-pink);
+  border-radius: 15px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 834px;
+  left: 372px;
+  position: absolute;
+  top: 0;
+  width: 806px;
+}
+
+.rectangle-15 {
+  background-color: var(--mercury);
+  border-radius: 40px;
+  height: 353px;
+  left: 527px;
+  position: absolute;
+  top: 433px;
+  width: 511px;
+}
+
+.rectangle-16 {
+  background-color: var(--mercury);
+  border-radius: 40px;
+  height: 163px;
+  left: 527px;
+  position: absolute;
+  top: 130px;
+  width: 511px;
+}
+
+.group-7-1 {
+  height: 93px;
+  left: 403px;
+  position: absolute;
+  top: 22px;
+  width: 759px;
+}
+
+.rectangle-14-1 {
+  background-color: var(--mist-gray);
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 140px;
+  left: 407px;
+  position: absolute;
+  top: 153px;
+  width: 376px;
+}
+
+.group-7-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 439px;
+  position: absolute;
+  top: 334px;
+  width: 279px;
+}
+
+.income-total {
+  letter-spacing: 0;
+  min-height: 29px;
+  text-align: center;
+  width: 254px;
+}
+
+.price {
+  align-self: flex-end;
+  color: #008826;
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-weight: 800;
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 4px;
+  min-height: 53px;
+  text-align: center;
+  width: 239px;
+}
+
+.group-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 783px;
+  position: absolute;
+  top: 331px;
+  width: 286px;
+}
+
+.expense-total {
+  letter-spacing: 0;
+  min-height: 32px;
+  text-align: center;
+  width: 254px;
+}
+
+.x450000 {
+  align-self: flex-end;
+  color: var(--red-berry);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-weight: 800;
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 5px;
+  min-height: 58px;
+  text-align: center;
+  width: 246px;
+}
+
+.group-9 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 468px;
+  position: absolute;
+  top: 170px;
+  width: 257px;
+}
+
+.annual-balance {
+  letter-spacing: 0;
+  margin-right: 3px;
+  min-height: 32px;
+  text-align: center;
+  width: 254px;
+}
+
+.price-1 {
+  color: var(--black);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxl);
+  font-weight: 800;
+  letter-spacing: 0;
+  margin-right: 2px;
+  min-height: 58px;
+  text-align: center;
+  width: 246px;
+}
+
+.group-7-3 {
+  height: 136px;
+  left: 845px;
+  position: absolute;
+  top: 148px;
+  width: 136px;
+}
+
+.rectangle-15-1 {
+  background-color: var(--canary);
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 265px;
+  left: 502px;
+  position: absolute;
+  top: 478px;
+  width: 560px;
+}
+
+.line-1-1 {
+  height: 140px;
+  left: 783px;
+  position: absolute;
+  top: 293px;
+  width: 1px;
+}
+
+.text-38 {
+  height: 63px;
+  left: 552px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 514px;
+  width: 464px;
+}
+
+.x6731-per-week {
+  left: 585px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 602px;
+  width: 397px;
+}
+
+.info-1 {
+  height: 67px;
+  left: 523px;
+  position: absolute;
+  top: 650px;
+  width: 80px;
+}
+
+.rectangle-11 {
+  height: 656px;
+  left: 1140px;
+  position: absolute;
+  top: 130px;
+  width: 10px;
+}
+
+.repeat-1 {
+  cursor: pointer;
+  height: 74px;
+  left: 941px;
+  position: absolute;
+  top: 649px;
+  width: 82px;
+}
+
+.tech-life-remote-life {
+  height: 492px;
+  left: 1212px;
+  position: absolute;
+  top: 30px;
+  width: 308px;
+}
+
+#overlay-x-guidance {
+  background-color: var(--carnation-pink);
+}
+

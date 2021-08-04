@@ -1,0 +1,82 @@
+.group-10-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 326px;
+}
+
+.by-guru {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  min-height: 16px;
+  text-align: center;
+  width: 149px;
+}
+
+.overlap-group8-2 {
+  height: 33px;
+  margin-right: 6.0px;
+  margin-top: 6px;
+  position: relative;
+  width: 320px;
+}
+
+.rectangle-34 {
+  background-color: var(--wild-sand);
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.rectangle-35 {
+  background-color: var(--wild-sand);
+  height: 33px;
+  left: 160px;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.read-more {
+  left: 30px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 119px;
+}
+
+.not-interested {
+  left: 191px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 119px;
+}
+
+.line-11 {
+  height: 33px;
+  left: 162px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.line-12 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.group-10-1.group-11 {
+  top: 39px;
+}
+

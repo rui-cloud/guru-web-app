@@ -1,0 +1,35 @@
+.about-2 {
+  align-items: flex-start;
+  background-color: var(--carnation-pink);
+  display: flex;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group-19 {
+  height: 169px;
+  margin-left: -4px;
+  margin-top: -23px;
+  position: relative;
+  width: 1444px;
+}
+
+.rectangle-1-10 {
+  background-color: var(--wild-strawberry);
+  height: 114px;
+  left: 4px;
+  position: absolute;
+  top: 23px;
+  width: 1440px;
+}
+
+.img9872-3-17 {
+  height: 169px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 269px;
+}
+

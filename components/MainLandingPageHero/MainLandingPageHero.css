@@ -1,0 +1,138 @@
+.main-landing-page-hero {
+  align-items: center;
+  background-color: var(--carnation-pink);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-right: 231.0px;
+  margin-top: -1943px;
+  min-width: 411px;
+}
+
+.place {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 22px;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.about {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 22px;
+  min-height: 24px;
+  white-space: nowrap;
+  width: 113px;
+}
+
+.about-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 53px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.overlap-group-1 {
+  height: 169px;
+  margin-top: 1895px;
+  position: relative;
+  width: 1440px;
+}
+
+.rectangle-1 {
+  background-color: var(--wild-strawberry);
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 1440px;
+}
+
+.contact-us {
+  left: 830px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  width: 174px;
+}
+
+.our-features {
+  left: 634px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  width: 174px;
+}
+
+.img9872 {
+  height: 169px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 269px;
+}
+
+.about-us {
+  left: 438px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  width: 174px;
+}
+
+.overlap-group1-1 {
+  height: 449px;
+  margin-left: 8.0px;
+  margin-top: 107px;
+  position: relative;
+  width: 1382px;
+}
+
+.x20 {
+  height: 449px;
+  left: 383px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 608px;
+}
+
+.for-students {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 420px;
+}
+
+.by-students {
+  left: 97px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 76px;
+  width: 420px;
+}
+
+.text-7 {
+  left: 905px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 477px;
+}
+

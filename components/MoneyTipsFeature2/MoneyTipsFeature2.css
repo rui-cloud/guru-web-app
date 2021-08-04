@@ -1,0 +1,153 @@
+.moneytips-feature2 {
+  background-color: var(--carnation-pink);
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group1-2 {
+  height: 976px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1392px;
+}
+
+.text-8 {
+  left: 878px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 904px;
+  width: 326px;
+}
+
+.group-40-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 54px;
+  left: 526px;
+  position: absolute;
+  top: 913px;
+}
+
+.overlap-group2-2 {
+  align-items: flex-end;
+  background-color: var(--granny-smith-apple);
+  border-radius: 20px;
+  display: flex;
+  height: 54px;
+  justify-content: flex-end;
+  min-width: 380px;
+  padding: 7.4px 23.3px;
+}
+
+.text-9 {
+  letter-spacing: 0;
+  min-height: 39px;
+  text-align: center;
+  width: 332px;
+}
+
+.group-53-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 609px;
+  left: 89px;
+  position: absolute;
+  top: 310px;
+}
+
+.overlap-group4-1 {
+  height: 609px;
+  position: relative;
+  width: 1263px;
+}
+
+.text-10 {
+  left: 58px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  width: 1148px;
+}
+
+.text-11 {
+  left: 89px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 908px;
+}
+
+.text-12 {
+  left: 1270px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 227px;
+}
+
+.text-13 {
+  left: 304px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+}
+
+.screenshot-2021-07-27-at-1303-2-1 {
+  height: 84px;
+  left: 1009px;
+  object-fit: cover;
+  position: absolute;
+  top: 203px;
+  width: 99px;
+}
+
+.overlap-group-2 {
+  height: 169px;
+  left: -25px;
+  position: absolute;
+  top: -23px;
+  width: 1465px;
+}
+
+.group-13-1 {
+  align-items: flex-start;
+  background-color: var(--wild-strawberry);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 138px;
+  left: 0;
+  min-width: 1465px;
+  padding: 30px 341.5px;
+  position: absolute;
+  top: 23px;
+}
+
+.xbox-menu-1 {
+  cursor: pointer;
+  height: 72px;
+  width: 83px;
+}
+
+.test-account-1 {
+  cursor: pointer;
+  height: 72px;
+  margin-left: 598px;
+  width: 83px;
+}
+
+.img9872-3-1 {
+  height: 169px;
+  left: 610px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 269px;
+}
+

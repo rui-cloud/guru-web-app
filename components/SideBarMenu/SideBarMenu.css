@@ -1,0 +1,260 @@
+.side-bar-menu {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  display: flex;
+  height: 1024px;
+  overflow: hidden;
+  width: 749px;
+}
+
+.overlay .side-bar-menu {
+  background-color: #00000000;
+}
+
+.overlap-group-24 {
+  height: 1030px;
+  margin-left: -63px;
+  margin-top: -6px;
+  position: relative;
+  width: 812px;
+}
+
+.tech-life-life-management-1 {
+  height: 379px;
+  left: 45px;
+  position: absolute;
+  top: 621px;
+  width: 450px;
+}
+
+.tech-life-communication-1 {
+  height: 255px;
+  left: 0;
+  position: absolute;
+  top: 292px;
+  width: 439px;
+}
+
+.frame-4-13 {
+  align-items: flex-end;
+  background-color: var(--carnation-pink);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  left: 63px;
+  overflow: hidden;
+  padding: 42px 0;
+  position: absolute;
+  top: 6px;
+  width: 749px;
+}
+
+.delete {
+  height: 62px;
+  margin-right: 52px;
+  margin-top: 33px;
+  width: 79px;
+}
+
+.overlap-group2-8 {
+  height: 670px;
+  margin-right: -87px;
+  margin-top: 85px;
+  position: relative;
+  width: 794px;
+}
+
+.group-14 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 794px;
+}
+
+.text-39 {
+  align-self: center;
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 59.0px;
+  min-height: 32px;
+  width: 435px;
+}
+
+.line-4 {
+  height: 1px;
+  margin-right: 10px;
+  margin-top: 32px;
+  width: 666px;
+}
+
+.financial-quiz-2 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 131px;
+  margin-top: 50px;
+  min-height: 32px;
+  text-align: center;
+  width: 267px;
+}
+
+.line-5 {
+  height: 1px;
+  margin-right: 20px;
+  margin-top: 32px;
+  width: 666px;
+}
+
+.smart-money-tips {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 206.0px;
+  margin-top: 42px;
+  min-height: 32px;
+  text-align: center;
+  width: 332px;
+}
+
+.line-6 {
+  height: 1px;
+  margin-right: 20px;
+  margin-top: 27px;
+  width: 666px;
+}
+
+.deals-of-the-day {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 240.0px;
+  margin-top: 43px;
+  min-height: 32px;
+  text-align: center;
+  width: 292px;
+}
+
+.line-7 {
+  height: 1px;
+  margin-right: 20px;
+  margin-top: 40px;
+  width: 666px;
+}
+
+.job-opportunities {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 162.0px;
+  margin-top: 45px;
+  min-height: 32px;
+  width: 334px;
+}
+
+.line-3 {
+  align-self: flex-start;
+  height: 1px;
+  margin-top: 190px;
+  width: 666px;
+}
+
+.handshake {
+  height: 61px;
+  left: 29px;
+  position: absolute;
+  top: 323px;
+  width: 79px;
+}
+
+.new-job {
+  height: 61px;
+  left: 29px;
+  position: absolute;
+  top: 432px;
+  width: 78px;
+}
+
+.gear {
+  cursor: pointer;
+  height: 68px;
+  left: 646px;
+  position: absolute;
+  top: 927px;
+  width: 112px;
+}
+
+.tuition {
+  height: 68px;
+  left: 146px;
+  position: absolute;
+  top: 220px;
+  width: 77px;
+}
+
+.exam {
+  height: 68px;
+  left: 141px;
+  position: absolute;
+  top: 326px;
+  width: 71px;
+}
+
+.card-wallet {
+  height: 62px;
+  left: 141px;
+  position: absolute;
+  top: 437px;
+  width: 71px;
+}
+
+.img9872-3-20 {
+  height: 169px;
+  left: 298px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 269px;
+}
+
+.overlap-group1-14 {
+  height: 802px;
+  margin-left: 333px;
+  margin-top: 196px;
+  position: relative;
+  width: 383px;
+}
+
+.tech-life-virtual-reality-1 {
+  height: 366px;
+  left: 0;
+  position: absolute;
+  top: 436px;
+  width: 383px;
+}
+
+.tech-life-remote-life-1 {
+  height: 492px;
+  left: 50px;
+  position: absolute;
+  top: 0;
+  width: 308px;
+}
+
+#overlay-side-bar-menu .container-center-horizontal {
+  justify-content: normal;
+}
+
+#overlay-side-bar-menu {
+  background-color: var(--alabaster);
+  position: absolute;
+}
+
+#overlay-side-bar-menu .side-bar-menu {
+  left: -0.296966552734375px;
+  top: 4.57763671875e-05px;
+}
+

@@ -1,0 +1,78 @@
+.q6-form {
+  align-items: flex-start;
+  background-color: var(--carnation-pink);
+  display: flex;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group-12 {
+  height: 169px;
+  margin-top: -23px;
+  position: relative;
+  width: 1440px;
+}
+
+.rectangle-1-7 {
+  background-color: var(--wild-strawberry);
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 1440px;
+}
+
+.chunk16-arrow-left-5 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 48px;
+  left: 30px;
+  padding: 3.0px 0;
+  position: absolute;
+  top: 56px;
+}
+
+.icon-6 {
+  height: 42px;
+  width: 64px;
+}
+
+.img9872-3-10 {
+  height: 169px;
+  left: 585px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 269px;
+}
+
+.frame-4-9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 100px;
+  display: flex;
+  height: 14px;
+  left: 15px;
+  overflow: hidden;
+  position: absolute;
+  top: 154px;
+  width: 1409px;
+}
+
+.frame-4-10 {
+  align-items: flex-start;
+  background-color: var(--canary);
+  display: flex;
+  height: 14px;
+  margin-left: -403px;
+  min-width: 1557px;
+  padding: 0 7px;
+}
+
+.asskkdkkdkdkdkdkdk-3 {
+  letter-spacing: 0;
+  min-height: 14px;
+}
+

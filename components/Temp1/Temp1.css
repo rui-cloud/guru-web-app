@@ -1,0 +1,34 @@
+.temp-1 {
+  align-items: flex-start;
+  background-color: var(--carnation-pink);
+  display: flex;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group-5 {
+  background-color: var(--carnation-pink);
+  box-shadow: 0px 4px 42px #0000001a;
+  height: 1024px;
+  position: relative;
+  width: 316px;
+}
+
+.rectangle-2 {
+  background-color: var(--wild-strawberry);
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 316px;
+}
+
+.img9872-2 {
+  height: 1px;
+  left: 163px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 1px;
+}
+

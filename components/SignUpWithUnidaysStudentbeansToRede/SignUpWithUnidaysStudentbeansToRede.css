@@ -1,0 +1,35 @@
+.sign-up-with-un-discount-codes {
+  align-items: flex-start;
+  display: flex;
+  height: 52px;
+  justify-content: flex-end;
+  left: 51px;
+  position: absolute;
+  top: 7px;
+}
+
+.overlap-group3-6 {
+  height: 52px;
+  position: relative;
+  width: 1319px;
+}
+
+.text-35 {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.studentbeans {
+  cursor: pointer;
+  left: 458px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0;
+}
+

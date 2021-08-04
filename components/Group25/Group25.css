@@ -1,0 +1,66 @@
+.group-25 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 5.0px;
+  margin-top: 44px;
+  min-width: 495px;
+}
+
+.overlap-group-33 {
+  height: 58px;
+  position: relative;
+  width: 489px;
+}
+
+.address {
+  left: 155px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 178px;
+}
+
+.rectangle-27 {
+  background-color: var(--rhino);
+  border-radius: 50px;
+  height: 28px;
+  left: 331px;
+  position: absolute;
+  top: 0;
+  width: 158px;
+}
+
+.rectangle-28 {
+  background-color: var(--rhino);
+  border-radius: 50px;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 158px;
+}
+
+.previous {
+  left: 30px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 99px;
+}
+
+.next {
+  left: 361px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 99px;
+}
+
+.group-25.group-32 {
+  margin-left: 7.0px;
+  margin-top: 62px;
+}
+

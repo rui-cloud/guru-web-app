@@ -1,0 +1,77 @@
+.q4-form {
+  align-items: flex-start;
+  background-color: var(--carnation-pink);
+  display: flex;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group-9 {
+  height: 169px;
+  margin-top: -23px;
+  position: relative;
+  width: 1440px;
+}
+
+.rectangle-1-5 {
+  background-color: var(--wild-strawberry);
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 1440px;
+}
+
+.chunk16-arrow-left-3 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 48px;
+  left: 30px;
+  padding: 3.0px 0;
+  position: absolute;
+  top: 56px;
+}
+
+.icon-4 {
+  height: 42px;
+  width: 64px;
+}
+
+.img9872-3-7 {
+  height: 169px;
+  left: 585px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 269px;
+}
+
+.frame-4-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 100px;
+  display: flex;
+  height: 14px;
+  left: 15px;
+  overflow: hidden;
+  position: absolute;
+  top: 154px;
+  width: 1409px;
+}
+
+.frame-4-6 {
+  align-items: flex-start;
+  background-color: var(--canary);
+  display: flex;
+  height: 14px;
+  min-width: 741px;
+  padding: 0 7px;
+}
+
+.asskkdkkdkdkdkdkdk-1 {
+  letter-spacing: 0;
+  min-height: 14px;
+}
+
