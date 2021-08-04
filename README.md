@@ -1,8 +1,8 @@
-# Anima App exported react code
-This package was generated automatically with [Anima App](https://www.animaapp.com).
+# The Guru Web-App uses react code
+
 ## Instructions
 ```
-cd package_code
+cd GuruAppPackage-React
 npm install
 npm start
 ```
